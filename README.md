@@ -3,4 +3,4 @@
 
 
 
-![Sample image for detecting ThumbsUp and ThumbsDown](https://raw.githubusercontent.com/readyjune/TensorflowObjectDetection/main/sample.png)
+![Sample image for detecting ThumbsUp and ThumbsDown](https://raw.githubusercontent.com/readyjune/TensorflowObjectDetection/main/Sample.png)
