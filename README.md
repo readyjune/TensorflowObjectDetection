@@ -1,3 +1,4 @@
 
 
-![Sample image for detecting ThumbsUp and ThumbsDown](sample.png)
+
+![Sample image for detecting ThumbsUp and ThumbsDown](https://raw.githubusercontent.com/readyjune/myrepo/main/sample.png)
